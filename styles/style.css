@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Poppins&display=swap');
+
+body {
+  font-family: 'DM Sans', sans-serif !important;
+}
+header {
+  background-color: #fffbf0;
+}
+.color {
+  color: #a4bc46;
+}
